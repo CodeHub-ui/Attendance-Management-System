@@ -1,4 +1,4 @@
-# Attendance Management System          
+# Attendance Management System          lolo
 
 A desktop-based Attendance Management System designed to simplify and manage attendance-related records efficiently. The project includes the application source code, compiled build files, distribution package, and SQL database script.
 
